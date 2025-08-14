@@ -1,0 +1,6 @@
+{
+    "extensiones": [".avi", ".mp4", ".mkv", ".mpg", ".mov", ".wmv", ".mp3"],
+    "categorias_peliculas": ["Acción", "Comedia", "Drama", "Terror", "Ciencia Ficción", "Romance", "Animación", "Documental", "Otros"],
+    "nacionalidades_novelas": ["Mexicana", "Colombiana", "Turca", "Brasileña", "Chilena", "Argentina", "Española", "Estadounidense", "Otra"]
+  }
+  
